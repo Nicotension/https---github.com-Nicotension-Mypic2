@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pic:hover {
+    opacity: 0.4;
+}
+
+.small-img {
+    width: 550px;  
+    height: 350px; 
+    object-fit: cover; 
+}
+
+.small-img:hover {
+    opacity: 0.3; 
+}
+
+.mainContainer {
+    background-color: burlywood;  
+    background-image: ;
+}
+.card {
+    margin: 1px;
+}
+
+.pic {
+    width: 550px;   
+    height: 350px;  
+    object-fit: cover; 
+}
+
+.card-body{
+    background-color: antiquewhite;
+}
